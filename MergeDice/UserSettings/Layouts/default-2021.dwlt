@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 86
+  controlID: 28
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 111
+  controlID: 109
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 112
+  controlID: 17
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 321
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -455,9 +455,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fe910000
-      m_LastClickedID: 0
-      m_ExpandedIDs: e6c5ffffa8c6ffffcec7ffff
+      m_SelectedIDs: aa940000
+      m_LastClickedID: 38058
+      m_ExpandedIDs: 40c5ffffe0c5ffffbcc6ffffcec7ffff809200009e920000b2940000049500001695000024950000429500008a950000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -565,23 +565,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Ilumisoft/Merge Dice/Scenes
+    - Assets/Ilumisoft/Merge Dice
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Ilumisoft/Merge Dice/Scenes
+  - Assets/Ilumisoft/Merge Dice
   m_LastFoldersGridSize: 16
   m_LastProjectPath: "D:\\Unity\\\u5E7B\u9AB0\u878D\u5408\u4E4B\u65C5\\MergeDice"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea910000
-    m_LastClickedID: 37354
-    m_ExpandedIDs: 000000009c9100009e910000dc910000ffffff7f
+    m_SelectedIDs: da910000
+    m_LastClickedID: 37338
+    m_ExpandedIDs: 000000009c9100009e910000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -636,7 +636,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -980,9 +980,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.408172, y: -1.2572572, z: -22.684286}
+    m_Target: {x: -0.65652573, y: -5.881452, z: -22.677437}
     speed: 2
-    m_Value: {x: 1.408172, y: -1.2572572, z: -22.684286}
+    m_Value: {x: -0.5654225, y: -5.8645997, z: -22.676704}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1033,9 +1033,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.3863187
+    m_Target: 1.7010196
     speed: 2
-    m_Value: 2.3863187
+    m_Value: 1.62777
   m_Ortho:
     m_Target: 1
     speed: 2
